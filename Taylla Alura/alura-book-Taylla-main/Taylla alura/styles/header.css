@@ -1,6 +1,5 @@
-.cabeçalho__menu-hamburguer {
+.cabeçalho_menu-hamburguer 
 
 whidth: 24px
 height: 24px
 ::backdrop-image: url("..img/Menu.svg");
-}
