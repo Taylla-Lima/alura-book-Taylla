@@ -1,8 +1,8 @@
-@impoprt url(styles/header.css);
-
-root{
+ @import url("styles/header.css");
+ 
+ root{
     --cor-fundo: #EBECEE;
-    --branco: #FFFFFF;
+    --branco:FFFFFF;
  }
  :
  body {
